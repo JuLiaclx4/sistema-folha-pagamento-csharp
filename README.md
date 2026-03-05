@@ -66,5 +66,5 @@ com foco no aprendizado de lógica de programação utilizando a linguagem C#.
 ---
 
 ## 👩🏻‍💻 Autora
-Julia Catarine
+Julia Catarine -
 Estudante de Análise e Desenvolvimento de Sistemas
